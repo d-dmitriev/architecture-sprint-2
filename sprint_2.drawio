@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T14:30:32.400Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="s8lUNK6t1mMZtxof7Mvp" version="24.7.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-07-23T14:36:50.281Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fE3iWn22plyfwqb_O3mp" version="24.7.1" type="device">
   <diagram name="Page-1" id="-H_mtQnk-PTXWXPvYvuk">
     <mxGraphModel dx="1183" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="935" y="115" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-5" value="Replica set - rs1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="935" y="115" width="110" height="30" as="geometry" />
+          <mxGeometry x="950" y="115" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="935" y="455" width="230" height="260" as="geometry" />
@@ -41,15 +41,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-8" value="Replica set - rs2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="965" y="455" width="110" height="30" as="geometry" />
+          <mxGeometry x="950" y="455" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.413;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zA23MoTUsTF4_91t8viU-2" target="AZ_0WxoAM86HgjmTqXl6-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="875" y="350" as="sourcePoint" />
             <mxPoint x="845" y="405" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="905" y="385" />
-              <mxPoint x="905" y="250" />
+              <mxPoint x="910" y="385" />
+              <mxPoint x="910" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,16 +58,16 @@
             <mxPoint x="875" y="420" as="sourcePoint" />
             <mxPoint x="935" y="585" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="905" y="405" />
-              <mxPoint x="905" y="585" />
+              <mxPoint x="910" y="405" />
+              <mxPoint x="910" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="745" y="495" width="140" height="150" as="geometry" />
+          <mxGeometry x="745" y="495" width="140" height="135" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-12" value="MongoDB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="785" y="555" width="60" height="80" as="geometry" />
+          <mxGeometry x="785" y="530" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-13" value="configSrv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="780" y="555" width="70" height="30" as="geometry" />
@@ -78,11 +78,11 @@
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="AZ_0WxoAM86HgjmTqXl6-15" target="AZ_0WxoAM86HgjmTqXl6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AZ_0WxoAM86HgjmTqXl6-33" value="replication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="255" width="80" height="30" as="geometry" />
+        <mxCell id="AZ_0WxoAM86HgjmTqXl6-33" value="Репликация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="255" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AZ_0WxoAM86HgjmTqXl6-35" value="replication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=1;" vertex="1" parent="1">
-          <mxGeometry x="1005" y="580" width="80" height="30" as="geometry" />
+        <mxCell id="AZ_0WxoAM86HgjmTqXl6-35" value="Репликация" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;glass=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-36" value="Replica set - config_rs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="745" y="495" width="140" height="30" as="geometry" />
@@ -295,6 +295,9 @@
         </mxCell>
         <mxCell id="AZ_0WxoAM86HgjmTqXl6-77" value="Распределение&lt;div&gt;запросов&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="307" y="405" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AZ_0WxoAM86HgjmTqXl6-78" value="Получение&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;данных&lt;/span&gt;&lt;div&gt;&lt;div&gt;из&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;шардов&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="832" y="364" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
