@@ -2,7 +2,13 @@
 
 ## Как запустить
 
-Запускаем mongodb и приложение
+Перейти в директорию с проектом
+
+```shell
+cd sharding-repl-cache
+```
+
+Запускаем mongodb, redis и приложение
 
 ```shell
 docker compose up -d
@@ -16,20 +22,6 @@ docker compose up -d
 
 ## Как проверить
 
-### Если вы запускаете проект на локальной машине
+Откройте в браузере http://localhost:8000
 
-Откройте в браузере http://localhost:8080
-
-### Если вы запускаете проект на предоставленной виртуальной машине
-
-Узнать белый ip виртуальной машины
-
-```shell
-curl --silent http://ifconfig.me
-```
-
-Откройте в браузере http://<ip виртуальной машины>:8080
-
-## Доступные эндпоинты
-
-Список доступных эндпоинтов, swagger http://<ip виртуальной машины>:8080/docs
+[Ссылка на схему](https://raw.githubusercontent.com/d-dmitriev/architecture-sprint-2/sprint_2/sprint_2.drawio)
