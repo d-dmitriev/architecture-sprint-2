@@ -17,7 +17,7 @@ docker compose up -d
 Заполняем mongodb данными
 
 ```shell
-./scripts/mongo-init.sh
+./mongo-init.sh
 ```
 
 ## Как проверить
